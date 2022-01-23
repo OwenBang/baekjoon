@@ -1,4 +1,4 @@
-From BackJoon   /   url: https://www.acmicpc.net/
+From BaekJoon   /   url: https://www.acmicpc.net/
 
 Folder 459:
     Practice Python
